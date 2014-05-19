@@ -6,7 +6,8 @@ $git config --global user.email
 $git config --global user.name AkankshaRathore
 $git init
 $git add *
-$git commit -m "Added files for Davv-Tube"    
+$git commit -m "Added files for Davv-Tube" 
+$git remote add origin https://github.com/AkankshaRathore/Davv_Tube  
 $git push origin master
 $git push
 $cd ..
@@ -20,6 +21,7 @@ $git pull
 $git help
 $git help add
 $git status
+
 #if fast forward error is occur then commit all files then pull it
 #
 
