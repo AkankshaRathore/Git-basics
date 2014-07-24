@@ -1,6 +1,6 @@
-$cd Desktop/git/davv_tube/
+$cd Desktop/git/davv_tube/ #set your current git folder path
 $git init  #everytime you need to init repo
-$git add *
+$git add * #to add files
 $git config --global user.email "anubha@gmail.com"
 $git config --global user.email
 $git config --global user.name Anubha
